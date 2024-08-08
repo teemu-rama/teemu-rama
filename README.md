@@ -1,6 +1,6 @@
 ## Teemu
 
-A random showcase of small games and data science projects. All projects are Python-based. My ongoing (and finished) projects include:
+A small showcase of classic games and data science projects. All projects are Python-based. My ongoing (and finished) projects include:
 
 - **Blackjack**: classic casino card game made with PyGame. Contains graphical elements, single player only.
 -  **Tic-Tac-Toe**: another classic. Supports two-player and single player modes. Single player AI implements the [minimax algorithm](https://en.wikipedia.org/wiki/Minimax)
